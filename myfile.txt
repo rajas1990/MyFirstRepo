@@ -6,4 +6,5 @@ I am creating an account in git hub.
 Hello WORLD GITHUB
 New change
 Do some additional commit in master
-Upstream branch changed
+Upstream branch changed.
+Hi this is Rajashree,my first commit to remote.
